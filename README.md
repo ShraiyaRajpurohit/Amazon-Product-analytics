@@ -32,4 +32,4 @@ Shraiya Rajpurohit
 
 
 ##Power BI dashboard preview
-Amazon product analytics Dashboard [Screenshot 2026-10-22 232952.png]
+Amazon product analytics Dashboard [Amazon_Dashboard.png]

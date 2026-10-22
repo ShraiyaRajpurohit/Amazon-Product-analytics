@@ -29,3 +29,7 @@ This project analyzes Amazon Product to understand product categories, pricing, 
 
 ##Author
 Shraiya Rajpurohit
+
+
+##Power BI dashboard preview
+Amazon product analytics Dashboard [Screenshot 2026-10-22 232952.png]
